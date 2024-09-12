@@ -6,5 +6,6 @@
 </head>
 <body>
     This is addedin branch1
+    This is added in branch2
 </body>
 </html>
